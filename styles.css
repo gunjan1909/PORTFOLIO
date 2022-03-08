@@ -7,6 +7,7 @@ body {
   font-size: 10px;
   font-family: "Montserrat", sans-serif;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 a {
@@ -326,7 +327,7 @@ p {
 }
 .skills-bottom .row {
   max-width: 1500px !important;
-  margin-right: calc(var(--bs-gutter-x) / -0) !important;
+ /* margin-right: calc(var(--bs-gutter-x) / -0) !important;*/
 }
 #skills .skills-item {
   flex-basis: 22%;
