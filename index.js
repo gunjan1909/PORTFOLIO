@@ -1,4 +1,5 @@
 //alert("THIS SITE IS BEST VIEWED ON DEKSTOP MODE");
+document.onload(alert("Last Updated: Jun-Jul 2021"))
 // Create a media condition that targets viewports at least 768px wide
 const mediaQuery = window.matchMedia("(max-width: 800px)");
 // Check if the media query is true
