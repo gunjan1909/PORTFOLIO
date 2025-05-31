@@ -1,5 +1,9 @@
 //alert("THIS SITE IS BEST VIEWED ON DEKSTOP MODE");
-document.onload(alert("Last Updated: Jun-Jul 2021"))
+document.onload(
+  alert(
+    "Website discontinued, please visit https://3d-portfolio-kappa-two.vercel.app/"
+  )
+);
 // Create a media condition that targets viewports at least 768px wide
 const mediaQuery = window.matchMedia("(max-width: 800px)");
 // Check if the media query is true
